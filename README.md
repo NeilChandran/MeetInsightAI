@@ -17,8 +17,8 @@ Ideal for consulting and tech professionals who want to turn conversations into 
 pip install sounddevice SpeechRecognition numpy
 
 2. **Run the tools from the command line:**
-python meeting_recorder.py
-python transcriber.py
-python action_item_extractor.py
-python summary_generator.py
+python meeting_recorder.py, 
+python transcriber.py, 
+python action_item_extractor.py, 
+python summary_generator.py, 
 python archive_searcher.py
